@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theshietee.rogov.tech/sitemap.xml
